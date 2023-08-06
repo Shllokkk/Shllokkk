@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3 align = "center">Hi there! My name is Shllok and I'm currently a student pursuing a degree in Information Technology at Mumbai University.</h3><br><br><br># 💫 About Me: Hi! My name is Shllok Osan and I'm currently a second-year Information Technology student. <br>I have been always keen about how things around me function and have been interested in technology.<br>I have been learning programming languages like C, C++ and Java.<br><br> <br>
+Hi! My name is Shllok Osan and I'm currently a second-year Information Technology student. <br>I have been always keen about how things around me function and have been interested in technology.<br>I have been learning programming languages like C, C++ and Java.<br><br> <br>
 
 
 ## 🌐 Socials:
