@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Shllok Osan and I'm currently a second-year Information Technology student. <br>I have been always keen about how things around me function and have been interested in technology.<br>I have been learning programming languages like C, C++ and Java.<br><br> <br>
+Hi! I'm Shllok Osan, born and brought up in Mumbai and I'm currently in 3rd Year pursuing my bachelors in IT Engineering at Don Bosco Institute of Technology, Mumbai. <br>I have been always keen about how things around me function and have been interested in technology.<br>I have been learning programming languages like C, C++, Java and Python.<br><br> <br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shllokkk__) 
 
