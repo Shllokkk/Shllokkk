@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Shllok Osan, born and brought up in Mumbai and I'm currently in 3rd Year pursuing my bachelors in IT Engineering at Don Bosco Institute of Technology, Mumbai.
+Hi! I'm Shllok Osan, born and brought up in Mumbai and I'm currently in Final Year pursuing my bachelors in IT Engineering at Don Bosco Institute of Technology, Mumbai.
 
 
 ## 🌐 Socials:
